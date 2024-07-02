@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "475847233851",
-    "project_id": "quote-demo-d97ed",
-    "storage_bucket": "quote-demo-d97ed.appspot.com"
+    "project_number": "652678497330",
+    "project_id": "quotes-app-c4548",
+    "storage_bucket": "quotes-app-c4548.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:475847233851:android:941515df10aaa47e20271e",
+        "mobilesdk_app_id": "1:652678497330:android:019091a67a9e8e6c6ee82b",
         "android_client_info": {
-          "package_name": "com.example.quotes_demo"
+          "package_name": "com.meir.quotes"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCdCEWWe2xdK9wP9ErPsAaVjUB6cdXXYfo"
+          "current_key": "AIzaSyB1ecyix6xC33FL86KayctlLDJg7z8ObYo"
         }
       ],
       "services": {
